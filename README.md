@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 💖 김혜윤 💖
+# 💖 혜윤's GITHUB 💖
 #### CODING BEGINNER 💫
 
 </div>
