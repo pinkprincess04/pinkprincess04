@@ -2,9 +2,7 @@
 
 <div align="center">
   
-#  💖 김혜윤 💖
-#### Hello, World!
-#### coding beginner 💫
-#### with guitar 🎸 
+# 💖 김혜윤 💖
+#### CODING BEGINNER 💫
 
 </div>
